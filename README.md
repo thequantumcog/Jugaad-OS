@@ -3,7 +3,9 @@ A minimal, humor-driven OS for tinkering
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/576c9bf4-f94a-49c1-975f-109130fc49ac
+
+https://github.com/user-attachments/assets/41379483-c2c1-4f89-84c1-604aafdfbf7b
+
 
 ## ISO-Library Versions
 * Linux **6.18.5**
