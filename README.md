@@ -3,7 +3,7 @@ A minimal, humor-driven OS for tinkering
 
 ## Demo Video
 
-Watch the demo: [Jugaad-OS Demo](assets/demo.mp4)
+https://github.com/user-attachments/assets/576c9bf4-f94a-49c1-975f-109130fc49ac
 
 ## ISO-Library Versions
 * Linux **6.18.5**
