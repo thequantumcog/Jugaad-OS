@@ -1,6 +1,10 @@
 # Jugaad-OS
 A minimal, humor-driven OS for tinkering
 
+## Demo Video
+
+Watch the demo: [Jugaad-OS Demo](assets/demo.mp4)
+
 ## ISO-Library Versions
 * Linux **6.18.5**
 * wlroots **0.19.2**
