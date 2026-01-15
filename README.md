@@ -2,11 +2,11 @@
 A minimal, humor-driven OS for tinkering
 
 ## ISO-Library Versions
-* Linux 6.18.5
-* wlroots 0.19.2
-* libudev-zero commit: bbeb7ad
-* toybox commit: 22efb79
-* seatd commit: a3c56c3
+* Linux **6.18.5**
+* wlroots **0.19.2**
+* libudev-zero commit: **bbeb7ad**
+* toybox commit: **22efb79**
+* seatd commit: **a3c56c3**
 
 ## Installed-Programs
 * dosbox
@@ -50,3 +50,7 @@ $ cp
 Aqal lagao! NAQAL_KRO type karo!
 ```
 
+## Download
+
+Download the latest Jugaad-OS release here:  
+**[v aik-ishariya-sifr](https://github.com/thequantumcog/Jugaad-OS/releases/latest)**
